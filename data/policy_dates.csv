@@ -1,0 +1,19 @@
+country,GID_0,cut_tax,announced_date,effective_date,instrument_type,magnitude_cl
+Italy,ITA,True,2026-03-18,2026-03-19,excise_cut,-25.0
+Spain,ESP,True,2026-03-20,2026-03-22,vat_cut,-19.0
+Poland,POL,True,2026-03-26,2026-03-31,combined,-28.0
+Germany,DEU,True,2026-04-13,2026-05-01,excise_cut,-14.0
+Austria,AUT,True,2026-03-11,2026-04-02,excise_cut,-5.0
+Croatia,HRV,True,2026-03-09,2026-03-10,price_cap,-10.0
+Czechia,CZE,True,2026-03-27,2026-04-08,combined,-7.8
+Hungary,HUN,True,2026-03-09,2026-03-10,combined,-25.0
+Sweden,SWE,True,2026-03-23,2026-05-01,excise_cut,-2.9
+Lithuania,LTU,True,2026-03-25,2026-04-16,excise_cut,-6.0
+Latvia,LVA,True,2026-03-23,2026-04-01,excise_cut,-7.1
+Slovenia,SVN,True,2026-03-18,2026-03-24,excise_cut,-7.6
+Cyprus,CYP,True,2026-03-26,2026-04-04,excise_cut,-6.0
+Ireland,IRL,True,2026-03-23,2026-03-25,excise_cut,-20.0
+Romania,ROU,True,2026-03-25,2026-04-07,combined,-6.0
+France,FRA,False,,,none,0.0
+United Kingdom,GBR,False,,,none,0.0
+Netherlands,NLD,False,,,none,0.0

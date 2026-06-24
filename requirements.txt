@@ -1,0 +1,6 @@
+# Workshop dependencies — all four are pre-installed in Google Colab.
+# Install locally with:  pip install -r requirements.txt
+pandas
+numpy
+matplotlib
+requests
